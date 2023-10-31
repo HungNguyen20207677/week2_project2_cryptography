@@ -10,17 +10,25 @@ Chương trình này thể hiện quá trình mã hóa và giải mã dữ liệ
 Python 3.x
 
 <h2>Cách Cài Đặt</h2>
-<ol>
-    <li>
-    Clone Repository:
-    ```git clone https://github.com/HungNguyen20207677/week2_project2_cryptography.git```
-    </li>
-    <li>
-    Cài đặt thư viện cần thiết:
-    ```python3 -m pip install pycryptodome```
-    </li>
-    <li>
-    Chạy chương trình:
-    ```python3 week2.py```
-    </li>
-</ol>
+
+<h3>Clone Repository:</h3>
+
+```
+git clone https://github.com/HungNguyen20207677/week2_project2_cryptography.git
+```
+
+<h3>Cài đặt thư viện cần thiết:</h3>
+
+```
+python3 -m pip install pycryptodome
+```
+
+<h3>Chạy chương trình:</h3>
+
+```
+python3 week2.py
+```
+
+    
+    
+    
