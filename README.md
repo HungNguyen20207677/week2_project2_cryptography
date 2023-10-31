@@ -13,14 +13,20 @@ Python 3.x
 <ol>
     <li>
     Clone Repository:
+    ```
     git clone https://github.com/HungNguyen20207677/week2_project2_cryptography.git
+    ```
     </li>
     <li>
     Cài đặt thư viện cần thiết:
+    ```
     python3 -m pip install pycryptodome
+    ```
     </li>
     <li>
     Chạy chương trình:
-    python week2.py
+    ```
+    python3 week2.py
+    ```
     </li>
 </ol>
